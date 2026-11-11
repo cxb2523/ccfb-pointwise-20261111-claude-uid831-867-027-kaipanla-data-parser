@@ -1,0 +1,10 @@
+{
+  "session_id": "58892fd1-92d1-451e-accd-99b6a3a50de5",
+  "turn_id": "a903c67d-45c0-4fd0-9c25-e5450238bba6",
+  "trace": "artifacts/58892fd1-92d1-451e-accd-99b6a3a50de5.jsonl",
+  "context_stream": "artifacts/context_stream_58892fd1-92d1-451e-accd-99b6a3a50de5.jsonl",
+  "context_evidence": "artifacts/context_evidence_58892fd1-92d1-451e-accd-99b6a3a50de5.json",
+  "context_window": 1000000,
+  "recording": "",
+  "uploaded_at": "2026-11-11 17:25:37"
+}
